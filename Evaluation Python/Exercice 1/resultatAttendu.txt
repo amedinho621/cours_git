@@ -1,0 +1,4 @@
+Statistiques par préfecture :
+Conakry: 100 cas, 50 décès
+Gueckedou: 200 cas, 120 décès
+Macenta: 150 cas, 90 décès

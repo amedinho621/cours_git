@@ -1,0 +1,19 @@
+=== Jour 1 ===
+Statistiques de la population :
+- Sains : 990
+- Infectés : 10
+- Immunisés : 0
+
+=== Jour 2 ===
+Statistiques de la population :
+- Sains : 980
+- Infectés : 20
+- Immunisés : 0
+
+=== Jour 3 ===
+Statistiques de la population :
+- Sains : 970
+- Infectés : 30
+- Immunisés : 0
+
+...
